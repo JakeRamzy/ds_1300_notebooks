@@ -1,0 +1,221 @@
+Project ID,Oil Spill ID,Beach ID,Beach Name,City,County Name,Record Date,Bacteria Name,Bacteria Amount,Result Measure ,Depth (ft)
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,27-Dec-21,Enterococcus,1,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,27-Dec-21,Enterococcus,2.15,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,13-Dec-21,Enterococcus,2.15,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,13-Dec-21,Enterococcus,1,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,29-Nov-21,Enterococcus,2.15,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,29-Nov-21,Enterococcus,10,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,15-Nov-21,Enterococcus,1,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,15-Nov-21,Enterococcus,2.15,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,01-Nov-21,Enterococcus,1,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,01-Nov-21,Enterococcus,4.64,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,18-Oct-21,Enterococcus,5.62,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,18-Oct-21,Enterococcus,10,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,04-Oct-21,Enterococcus,5.49,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,04-Oct-21,Enterococcus,10,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,27-Sep-21,Enterococcus,10,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,27-Sep-21,Enterococcus,4.78,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,20-Sep-21,Enterococcus,1,MPN/100ml,2
+1,10353,TX647885,Surfside,"Freeport, Tx",Brazoria,20-Sep-21,Enterococcus,4.16,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,27-Dec-21,Enterococcus,41,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,27-Dec-21,Enterococcus,3.45,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,13-Dec-21,Enterococcus,1,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,13-Dec-21,Enterococcus,1,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,29-Nov-21,Enterococcus,2.71,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,29-Nov-21,Enterococcus,1,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,15-Nov-21,Enterococcus,1,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,15-Nov-21,Enterococcus,6.69,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,01-Nov-21,Enterococcus,20,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,01-Nov-21,Enterococcus,15.78,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,26-Oct-21,Enterococcus,10,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,26-Oct-21,Enterococcus,14.58,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,18-Oct-21,Enterococcus,4.2,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,18-Oct-21,Enterococcus,10,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,04-Oct-21,Enterococcus,3.53,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,04-Oct-21,Enterococcus,31,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,27-Sep-21,Enterococcus,1,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,27-Sep-21,Enterococcus,3.53,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,20-Sep-21,Enterococcus,7.46,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,20-Sep-21,Enterococcus,1,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,06-Sep-21,Enterococcus,18.17,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,06-Sep-21,Enterococcus,0,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,30-Aug-21,Enterococcus,31,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,30-Aug-21,Enterococcus,16.33,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,23-Aug-21,Enterococcus,20,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,23-Aug-21,Enterococcus,14.96,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,16-Aug-21,Enterococcus,75,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,16-Aug-21,Enterococcus,47.06,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,09-Aug-21,Enterococcus,42.66,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,09-Aug-21,Enterococcus,0,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,02-Aug-21,Enterococcus,131.34,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,02-Aug-21,Enterococcus,0,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,26-Jul-21,Enterococcus,245.08,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,26-Jul-21,Enterococcus,20,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,23-Jul-21,Enterococcus,30,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,23-Jul-21,Enterococcus,301.99,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,21-Jul-21,Enterococcus,465,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,21-Jul-21,Enterococcus,266,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,19-Jul-21,Enterococcus,297.31,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,19-Jul-21,Enterococcus,10,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,12-Jul-21,Enterococcus,192.56,MPN/100ml,2
+2,10299,TX412536,Sylvan Beach Park,"Baytown, Tx",HARRIS,12-Jul-21,Enterococcus,31,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,20-Dec-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,20-Dec-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,13-Dec-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,13-Dec-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,29-Nov-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,29-Nov-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,15-Nov-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,15-Nov-21,Enterococcus,4.47,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,01-Nov-21,Enterococcus,14.18,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,01-Nov-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,18-Oct-21,Enterococcus,20,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,18-Oct-21,Enterococcus,34.31,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,08-Oct-21,Enterococcus,101,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,08-Oct-21,Enterococcus,101,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,31-Aug-21,Enterococcus,3.91,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,31-Aug-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,09-Aug-21,Enterococcus,1,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,09-Aug-21,Enterococcus,55.05,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,03-Aug-21,Enterococcus,168.8,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,03-Aug-21,Enterococcus,60,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,26-Jul-21,Enterococcus,71,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,26-Jul-21,Enterococcus,176.81,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,22-Jul-21,Enterococcus,20,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,22-Jul-21,Enterococcus,205.85,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,20-Jul-21,Enterococcus,328.14,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,20-Jul-21,Enterococcus,8164,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,12-Jul-21,Enterococcus,93.05,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,12-Jul-21,Enterococcus,40,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,10-Jul-21,Enterococcus,107.11,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,10-Jul-21,Enterococcus,496,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,06-Jul-21,Enterococcus,283,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,06-Jul-21,Enterococcus,99.82,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,28-Jun-21,Enterococcus,77,MPN/100ml,2
+3,10152,TX546628,North Beach - Main,"Corpus Christi, Tx",NUECES,20-Dec-21,Enterococcus,83,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,27-Dec-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,27-Dec-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,14-Dec-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,14-Dec-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,30-Nov-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,30-Nov-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,16-Nov-21,Enterococcus,10.91,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,16-Nov-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,19-Oct-21,Enterococcus,31.48,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,19-Oct-21,Enterococcus,52,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,05-Oct-21,Enterococcus,18.17,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,05-Oct-21,Enterococcus,30,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,21-Sep-21,Enterococcus,20,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,21-Sep-21,Enterococcus,13.16,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,09-Sep-21,Enterococcus,10,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,09-Sep-21,Enterococcus,13.16,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,31-Aug-21,Enterococcus,33.2,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,31-Aug-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,24-Aug-21,Enterococcus,46.39,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,24-Aug-21,Enterococcus,30,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,18-Aug-21,Enterococcus,20,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,18-Aug-21,Enterococcus,52.87,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,10-Aug-21,Enterococcus,70.07,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,10-Aug-21,Enterococcus,20,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,05-Aug-21,Enterococcus,129.18,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,05-Aug-21,Enterococcus,52,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,03-Aug-21,Enterococcus,154.97,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,03-Aug-21,Enterococcus,712,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,27-Jul-21,Enterococcus,57.48,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,27-Jul-21,Enterococcus,52,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,21-Jul-21,Enterococcus,75,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,21-Jul-21,Enterococcus,50,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,14-Jul-21,Enterococcus,41,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,14-Jul-21,Enterococcus,61.48,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,09-Jul-21,Enterococcus,43.29,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,09-Jul-21,Enterococcus,785,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,29-Jun-21,Enterococcus,26.86,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,29-Jun-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,26-Jun-21,Enterococcus,34.15,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,26-Jun-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,24-Jun-21,Enterococcus,259,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,24-Jun-21,Enterococcus,37.07,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,15-Jun-21,Enterococcus,59.12,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,15-Jun-21,Enterococcus,5,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,10-Jun-21,Enterococcus,59.12,MPN/100ml,2
+4,10099,TX164090,Texas City Dike,"Bolivar, Tx",GALVESTON,10-Jun-21,Enterococcus,20,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,05-Dec-22,Enterococcus,60,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,07-Nov-22,Enterococcus,16,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,14-Mar-22,Enterococcus,6,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,03-Oct-22,Enterococcus,6,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,26-Sep-22,Enterococcus,25,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,19-Sep-22,Enterococcus,10,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,12-Sep-22,Enterococcus,32,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,07-Sep-22,Enterococcus,7,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,06-Sep-22,Enterococcus,106,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,31-Aug-22,Enterococcus,43,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,29-Aug-22,Enterococcus,112,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,22-Aug-22,Enterococcus,89,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,15-Aug-22,Enterococcus,74,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,08-Aug-22,Enterococcus,13,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,01-Aug-22,Enterococcus,2,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,25-Jul-22,Enterococcus,64,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,07-Feb-22,Enterococcus,22,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,18-Jul-22,Enterococcus,4,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,11-Jul-22,Enterococcus,64,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,05-Jul-22,Enterococcus,10,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,27-Jun-22,Enterococcus,62,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,21-Jun-22,Enterococcus,4,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,13-Jun-22,Enterococcus,10,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,07-Jun-22,Enterococcus,26,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,31-May-22,Enterococcus,8,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,23-May-22,Enterococcus,50,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,17-May-22,Enterococcus,2,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,16-May-22,Enterococcus,227,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,10-Jan-22,Enterococcus,24,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,09-May-22,Enterococcus,24,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,02-May-22,Enterococcus,6,MPN/100ml,2
+5,10322,AL197202,FOWL RIVER @ HW 193,"Mobile, Al",MOBILE,04-Apr-22,Enterococcus,10,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,27-Oct-21,Enterococcus,10,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,25-Oct-21,Enterococcus,109,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,11-Oct-21,Enterococcus,52,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,27-Sep-21,Enterococcus,35,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,15-Sep-21,Enterococcus,580,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,13-Sep-21,Enterococcus,235,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,07-Sep-21,Enterococcus,47,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,18-Aug-21,Enterococcus,91,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,16-Aug-21,Enterococcus,560,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,02-Aug-21,Enterococcus,10,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,21-Jul-21,Enterococcus,36,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,19-Jul-21,Enterococcus,386,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,07-Jul-21,Enterococcus,30,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,23-Jun-21,Enterococcus,10,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,21-Jun-21,Enterococcus,221,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,09-Jun-21,Enterococcus,10,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,07-Jun-21,Enterococcus,248,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,26-May-21,Enterococcus,10,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,13-May-21,Enterococcus,15,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,11-May-21,Enterococcus,102,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,26-Apr-21,Enterococcus,15,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,12-Apr-21,Enterococcus,10,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,29-Mar-21,Enterococcus,10,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,15-Mar-21,Enterococcus,47,MPN/100ml,2
+6,-,FL352966,SHORELINE PARK,"Pensacola, Fl",Santa Rosa,03-Mar-21,Enterococcus,41,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,21-Dec-21,Enterococcus,99,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,07-Dec-21,Enterococcus,10,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,23-Nov-21,Enterococcus,207,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,09-Nov-21,Enterococcus,20,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,26-Oct-21,Enterococcus,600,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,12-Oct-21,Enterococcus,53,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,28-Sep-21,Enterococcus,137,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,14-Sep-21,Enterococcus,254,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,30-Aug-21,Enterococcus,31,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,17-Aug-21,Enterococcus,478,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,03-Aug-21,Enterococcus,64,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,20-Jul-21,Enterococcus,306,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,07-Jul-21,Enterococcus,999,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,22-Jun-21,Enterococcus,999,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,08-Jun-21,Enterococcus,20,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,25-May-21,Enterococcus,42,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,11-May-21,Enterococcus,10,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,27-Apr-21,Enterococcus,10,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,13-Apr-21,Enterococcus,10,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,30-Mar-21,Enterococcus,31,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,16-Mar-21,Enterococcus,10,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,02-Mar-21,Enterococcus,10,MPN/100ml,2
+7,-,FL138730,SOUTH BEACH,"Key West, Fl",Monroe,16-Feb-21,Enterococcus,10,MPN/100ml,2
